@@ -55,12 +55,12 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
-\033[1;91m=======================================
-\033[1;96mAuthor Sajjad Hossain
-\033[1;96mInstagram FlowSajjad
-\033[1;96mFacebook SajjadOfficial
-\033[1;96mGithub https://github.com/Thesajjad/zero
-\033[1;91m======================================="""
+=======================================
+Author Sajjad Hossain
+Instagram FlowSajjad
+Facebook SajjadOfficial
+Github https://github.com/Thesajjad/zero
+======================================="""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -80,12 +80,11 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033Sajjad Hossain
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowSajajd
-\033[1;96mFacebook  \033[1;93m: \033[1;92m SajjadHossain
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Thersajjad/zero
-\033[1;91m======================================="""
-print " \x1b[1;93m============================================================="
+Author Sajjad Hossain
+Instagram FlowSajjad
+Facebook SajjadOfficial
+Github https://github.com/Thesajjad/zero
+==================================="""
 
 CorrectUsername = "sajjad"
 CorrectPassword = "sajjad"
