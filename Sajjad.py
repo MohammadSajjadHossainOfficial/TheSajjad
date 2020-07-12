@@ -56,10 +56,10 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mSajjad Hossain
-\033[1;96mInstagram \033[1;93m: \033[1;FlowSajjad
-\033[1;96mFacebook  \033[1;93m: \033[1; SajjadOfficial
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Thesajjad/zero
+\033[1;96mAuthor Sajjad Hossain
+\033[1;96mInstagram FlowSajjad
+\033[1;96mFacebook SajjadOfficial
+\033[1;96mGithub https://github.com/Thesajjad/zero
 \033[1;91m======================================="""
 
 def tik():
