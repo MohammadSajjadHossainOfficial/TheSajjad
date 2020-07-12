@@ -56,11 +56,6 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 =======================================
-Author Sajjad Hossain
-Instagram FlowSajjad
-Facebook SajjadOfficial
-Github https://github.com/Thesajjad/zero
-======================================="""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -80,11 +75,6 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-Author Sajjad Hossain
-Instagram FlowSajjad
-Facebook SajjadOfficial
-Github https://github.com/Thesajjad/zero
-==================================="""
 
 CorrectUsername = "sajjad"
 CorrectPassword = "sajjad"
